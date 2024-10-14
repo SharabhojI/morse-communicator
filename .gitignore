@@ -1,0 +1,4 @@
+# Ignore virtual environment
+RPi\ Client/venv/
+.env
+morse/arduino_secrets.h
